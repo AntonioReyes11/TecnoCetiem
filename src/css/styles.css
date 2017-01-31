@@ -115,7 +115,7 @@ p.curso{
 p.cursa{
 	font-size: 20px;
 }
-#curso{
+#curso,#asesoria,#evento,#visita{
 font-size: 25px;
 font-weight:bold;
 font-family: "Helvetica Neue";
