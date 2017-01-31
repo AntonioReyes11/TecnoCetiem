@@ -129,3 +129,8 @@ letter-spacing: 1px;
 color: #636363;
 
 }
+#cruz{
+	background: linear-gradient(163.62deg, #00EDFF 0%, #A21BB8 100%);
+	width:45px; 
+	height:45px;
+}
