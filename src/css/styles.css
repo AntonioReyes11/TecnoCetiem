@@ -115,3 +115,10 @@ p.curso{
 p.cursa{
 	font-size: 20px;
 }
+#curso{
+font-size: 25px;
+text-align: center;
+line-height: 31px;
+letter-spacing: 1px;
+color: #636363;
+}
