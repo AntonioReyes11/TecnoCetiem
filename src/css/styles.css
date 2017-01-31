@@ -117,8 +117,10 @@ p.cursa{
 }
 #curso{
 font-size: 25px;
+font-weight: bold;
 text-align: center;
 line-height: 31px;
 letter-spacing: 1px;
 color: #636363;
+
 }
