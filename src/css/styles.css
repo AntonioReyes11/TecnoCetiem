@@ -25,18 +25,17 @@ header .logo {
 	float:left;
 }
 header .slogan{
-	color:white;
+	
 	position: absolute;
 	padding:80px;
 	top:90px;
 	right: 10px;
 	font-size: 45px;
+	font-family: 'Lato';
+	line-height: 60px;
+	color: #FFFFFF;
+	text-shadow: 0 2px 19px 0 rgba(0,0,0,0.5);
 	
-	font-family: 'Lato', sans-serif;
-	
-	
-
-
 }
  
 header nav {
