@@ -64,17 +64,18 @@ header nav a:hover {
 	border-radius:50px;
 }
 p.hacer{
-	color: #017CB5;
+	
 	position: relative;
-	font-size: 45px;
+	top:20px;
+	font-size: 40px;
 	font-family: 'Lato',sans-serif;
 	text-align: center;
-	top:20px;
+	color: #2D4B87;
 
 
 }
 p.emprende{
-	
+
 	text-align: center;
 	position: relative;
 	top:80px;
