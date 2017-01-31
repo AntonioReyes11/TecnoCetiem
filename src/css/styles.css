@@ -74,12 +74,13 @@ p.hacer{
 
 }
 p.emprende{
-	color: black;
+	
 	text-align: center;
 	position: relative;
 	top:80px;
-	font-size: 30px;
+	font-size: 25px;
 	font-family: 'Lato',sans-serif;
+	color: #272727;
 
 }
 .imagenes{
