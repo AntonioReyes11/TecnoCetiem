@@ -1,4 +1,8 @@
 *{margin:0;padding: 0;}
+body{
+	max-width: 1440px;
+	
+}
 
 header {
 	background-image: url("http://www.hdfondos.eu/preview/get_photo/63734/1920/1200");
