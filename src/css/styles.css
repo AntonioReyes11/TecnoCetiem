@@ -24,7 +24,8 @@ header {
 }
  
 header .logo {
-	
+	position: relative;
+	left:30px;
 	line-height:100px;
 	float:left;
 }
