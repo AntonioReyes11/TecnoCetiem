@@ -1,15 +1,9 @@
 *{margin:0;padding: 0;}
-body{
-	max-width: 1440px;
-	
-}
 
 header {
-	background-image: url("http://www.hdfondos.eu/preview/get_photo/63734/1920/1200");
-    background-position: center center;
-    background-size: cover; 
-	width:1024px;
-	height: 720px; /* Establecemos que el header abarque el 100% del documento */
+	background-image: url("http://www.hdfondos.eu/preview/get_photo/63734/1920/1200") 50% 50% no-repeat;
+     width: 100%;
+   background-size: cover;
 	overflow:hidden;
 
 	
